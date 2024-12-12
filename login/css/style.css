@@ -1,0 +1,45 @@
+i{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #24353F;
+}
+.login-card{
+    background-color: #24353F;
+    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+h1{
+    color: #17A2B8;
+}
+.form-control{
+    background-color: #24353F;
+-webkit-text-fill-color:rgba(255, 255, 255,0.5);
+
+}
+.form-control:focus {
+    background-color: #24353F;
+    color:white;
+    border-color: none;
+    box-shadow: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.btn:hover{
+    color: white;
+}
+.bg-body-tertiary{
+    background-color: #24353F;
+    --bs-bg-opacity: 0;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.navbar{
+    background-color: #24353F;
+}
+.navbar-brand:hover{
+text-decoration: none;
+}
